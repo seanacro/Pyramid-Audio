@@ -1,0 +1,2 @@
+# tikFix.py
+dBase doesn't have a graceful way to validate or sanitize imported data. This script takes a daily UPS shipment report and converts irregular Reference numbers to a generic ticket number that won't cause dBase to throw an error and won't interfere with our legitimate ticket numbers. 

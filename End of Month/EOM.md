@@ -1,0 +1,3 @@
+# shclaim.prg
+There is a simple calculation that is done to determine how much we claim for shipping costs on warranty tickets each month and, until very recently, we had been doing the calculation as well as updating the electronic records by hand. Since we typically ship dozens of warranty repairs back to their owners each month, this was a time consuming task. So I automated it. This is the first dBase script I wrote. 
+This script is called by another script which gets run each month, so nobody has to change their workflow or remember a new script name. 
