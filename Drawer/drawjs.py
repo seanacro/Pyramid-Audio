@@ -19,7 +19,7 @@ def main():
 	writeFile.close()
 
 	# And now we can actually do the thing
-	with open(file=dest, mode="r") as jso:
+	with open(file=path, mode="r") as jso:
 		object=json.load(jso)
 
 	with open(file=dest, mode="w") as jsn:
