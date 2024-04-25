@@ -1,0 +1,3 @@
+We sell Modules for vintage equipment as well as some other miscellania on eBay, usually seeing one or more eBay sales at least once a week. It always felt a bit unnecessary to transcribe customer data that exists in a computer (eBay) to a different computer (dBase) so this script takes a csv report that eBay generates and adds the records to dBase and prints tickets with every bit of info already in place. This probably saves about 2 minutes per sale and makes the whole process much easier with less potential for error. 
+
+This also forced me to learn how dBase prints so I was able to fix some minor annoyances about print scripts unrelated to the eBay tickets. 
