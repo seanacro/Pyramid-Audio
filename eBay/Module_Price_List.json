@@ -1,0 +1,68 @@
+{
+    "S-100+": {
+        "labor": 31,
+        "parts": 44,
+        "ship": 4,
+        "total": 79.0
+    },
+    "Pioneer ODR":{
+        "labor": 60,
+        "parts": 35,
+        "ship": 4,
+        "total": 99.0               
+    },
+    "SP-40W+": {
+        "labor": 21,
+        "parts": 35,
+        "ship": 3.99,
+        "total": 59.99
+    },
+    "STK0050+": {
+        "labor": 26,
+        "parts": 35,
+        "ship": 3.99,
+        "total": 64.99
+    },
+    "STK0059+": {
+        "labor": 21,
+        "parts": 35,
+        "ship": 3.99,
+        "total": 59.99
+    },
+    "STK0080+": {
+        "labor": 26,
+        "parts": 35,
+        "ship": 3.99,
+        "total": 64.9
+    },
+    "STK1060+": {
+        "labor": 21,
+        "parts": 35,
+        "ship": 3.99,
+        "total": 59.99
+    },
+    "STK1080+": {
+        "labor": 26,
+        "parts": 35,
+        "ship": 3.99,
+        "total": 64.99
+    },
+    "TA-100W+": {
+        "labor": 31,
+        "parts": 44,
+        "ship": 4,
+        "total": 79.0
+    },
+    "TA-100WA+": {
+        "labor": 31,
+        "parts": 44,
+        "ship": 4,
+        "total": 79.0
+    },
+    "TA-200W+": {
+        "labor": 90,
+        "parts": 60,
+        "ship": 9.99,
+        "total": 159.99
+    }
+}

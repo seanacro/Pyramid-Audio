@@ -1,0 +1,64 @@
+{
+    "S-100+": {
+        "Module": 1
+    },
+    "BA312+": {
+        "Module": 1
+    },
+    "ODR Outer": {
+        "Module": 1,
+        "Short Standoff": 1,
+        "Pin Header": 1
+    },
+    "SP-40W+": {
+        "Module": 1,
+        "Silpad": 2
+    },
+    "STK0050+": {
+        "Module": 1,
+        "Silpad": 2
+    },
+    "STK0059+": {
+        "Module": 1,
+        "Silpad": 2
+    },
+    "STK0080+": {
+        "Module": 1,
+        "Silpad": 2,
+        "Phillips Screw": 2,
+        "Lock Washer": 2,
+        "Washer": 2
+    },
+    "STK1060+": {
+        "Module": 1,
+        "Silpad": 2
+    },
+    "STK1080+": {
+        "Module": 1,
+        "Silpad": 2
+    },
+    "TA-100W+": {
+        "Module": 1,
+        "Silpad": 2,
+        "Phillips Screw": 2,
+        "Lock Washer": 2,
+        "Washer": 2
+    },
+    "TA-100WA+": {
+        "Module": 1,
+        "Silpad": 2,
+        "Phillips Bolt": 2,
+        "Washer": 2,
+        "Lock Washer": 2,
+        "Nut": 2
+    },
+    "TA-200W+": {
+        "Module": 1,
+        "Silpad": 4,
+        "KTA Transistors": 2,
+        "Drilled Bar": 2,
+        "Phillips Screw": 2,
+        "Lock Washer": 2,
+        "Barrel Bolt": 2
+    }
+}
